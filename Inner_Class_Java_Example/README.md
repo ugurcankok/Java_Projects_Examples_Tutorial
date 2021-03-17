@@ -1,2 +1,0 @@
-# Inner_Class_Java_Example
- Inner_Class_Java_Example
