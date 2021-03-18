@@ -68,7 +68,7 @@ public class SortingAlgo {
 			int middleIndex=(lowIndex+highIndex)/2;
 			mergeSort(list,lowIndex,middleIndex);
 			mergeSort(list,middleIndex+1,highIndex);
-			//merge(list, lowIndex, middleIndex+1, highIndex);
+			merge(list, lowIndex, middleIndex+1, highIndex);
 		}
 	}
 

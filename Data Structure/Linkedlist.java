@@ -328,26 +328,25 @@ public class Test {
 	public static void main(String[] args) {
 		//Linked list is a data structure used for collecting element or object, it contains sequence of nodes first node is head and node has data and refers to the other node 
 		//and the final node refer null
-		//ListNode head=new ListNode(1);
-		//ListNode second=new ListNode(2);
-		//ListNode third=new ListNode(3);
-		//ListNode fourth=new ListNode(4);
-		//ListNode fifth=new ListNode(5);
+		ListNode head=new ListNode(1);
+		ListNode second=new ListNode(2);
+		ListNode third=new ListNode(3);
+		ListNode fourth=new ListNode(4);
+		ListNode fifth=new ListNode(5);
 		
-		//head.next=second;
-		//second.next=third;
-		//third.next=fourth;
-		//fourth.next=fifth;
+		head.next=second;
+		second.next=third;
+		third.next=fourth;
+		fourth.next=fifth;
 		
 		
 		Test singlyLinkList=new Test();
-		//singlyLinkList.display(head);
+		singlyLinkList.display(head);
 		singlyLinkList.createALoop();
-		//System.out.println("\n");
 		System.out.println(singlyLinkList.containsLoop());
-		//System.out.println("\nLength of list: " + singlylinklist.lenght(head));
+		System.out.println("\nLength of list: " + singlylinklist.lenght(head));
 		
-		/*ListNode newHead=singlylinklist.InsertBegin(head, 15);
+		ListNode newHead=singlylinklist.InsertBegin(head, 15);
 		singlylinklist.display(newHead);
 		System.out.println("\nLength of list: " + singlylinklist.lenght(newHead));
 		
@@ -358,53 +357,53 @@ public class Test {
 		singlylinklist.InsertAfter(second, 4);
 		singlylinklist.display(newHead);
 		System.out.println("\nLength of list: " + singlylinklist.lenght(newHead));
-		*/
 		
-		/*Scanner input=new Scanner(System.in);
+		
+		Scanner input=new Scanner(System.in);
 		System.out.print("Enter your new data:");
 		int value=input.nextInt();
 		System.out.print("Enter your data position:");
-		int position=input.nextInt();*/
+		int position=input.nextInt();
 		
 		
-		/*singlylinklist.InserAtPosition(newHead, 7, 3);
+		singlylinklist.InserAtPosition(newHead, 7, 3);
 		singlylinklist.display(newHead);
-		System.out.println("\nLength of list: " + singlylinklist.lenght(newHead));*/
+		System.out.println("\nLength of list: " + singlylinklist.lenght(newHead));
 		
-		/*ListNode deleteNode=singlylinklist.DeleteHead(newHead);
+		ListNode deleteNode=singlylinklist.DeleteHead(newHead);
 		singlylinklist.display(newHead);
 		System.out.println("\nLength of list: " + singlylinklist.lenght(head));
 		
 		ListNode deleteLastNode=singlylinklist.DeleteLast(head);
 		System.out.print(deleteLastNode.data);
-		System.out.println("\nLength of list: " + singlylinklist.lenght(head));*/
+		System.out.println("\nLength of list: " + singlylinklist.lenght(head));
 		
-		/*ListNode deletePosition=singlylinklist.DeleteAtPosition(head, 3);
-		System.out.println("\n" + deletePosition.data);*/
+		ListNode deletePosition=singlylinklist.DeleteAtPosition(head, 3);
+		System.out.println("\n" + deletePosition.data);
 		
-		/*if(singlyLinkList.find(head, 18)) {
+		if(singlyLinkList.find(head, 18)) {
 			System.out.println("\nElement was found");
 		}else {
 			System.out.println("\nElement could not be found!!");
-		}*/
+		}
 		
-		/*ListNode reverseList=singlyLinkList.reverse(head);
-		singlyLinkList.display(reverseList);*/
+		ListNode reverseList=singlyLinkList.reverse(head);
+		singlyLinkList.display(reverseList);
 		
-		/*ListNode middleNode=singlyLinkList.middleNode(head);
-		System.out.println("Middle node is: " + middleNode.data);*/
+		ListNode middleNode=singlyLinkList.middleNode(head);
+		System.out.println("Middle node is: " + middleNode.data);
 		
-		/*ListNode nthNodeFromEnd=singlyLinkList.getNthFromEnd(head, 2);
-		System.out.println("Nth node from n is: " + nthNodeFromEnd.data);*/
+		ListNode nthNodeFromEnd=singlyLinkList.getNthFromEnd(head, 2);
+		System.out.println("Nth node from n is: " + nthNodeFromEnd.data);
 		
-		/*singlyLinkList.removeDuplicate(head);
-		singlyLinkList.display(head);*/
+		singlyLinkList.removeDuplicate(head);
+		singlyLinkList.display(head);
 		
-		/*singlyLinkList.InserInSortedLsıt(head, 3);
-		singlyLinkList.display(head);*/
+		singlyLinkList.InserInSortedLsıt(head, 3);
+		singlyLinkList.display(head);
 		
-		//singlyLinkList.deleteNode(head, 2);
-		//singlyLinkList.display(head);
+		singlyLinkList.deleteNode(head, 2);
+		singlyLinkList.display(head);
 		
 		
 	}

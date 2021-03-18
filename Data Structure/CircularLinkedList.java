@@ -103,38 +103,15 @@ public class CircularLinkedList {
 	
 	public static void main(String[] args) {
 		CircularLinkedList circular=new CircularLinkedList();
-		//circular.CreateList();
-		//circular.InsertFirst(10);
-		//circular.InsertFirst(11);
+		circular.CreateList();
+		circular.InsertFirst(10);
+		circular.InsertFirst(11);
 		circular.insetLast(1);
 		circular.insetLast(2);
 		circular.insetLast(3);
 		
 		circular.removeFirst();
-		
-		
-		circular.display();
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		circular.display();	
 		
 	}
 

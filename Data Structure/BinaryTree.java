@@ -130,9 +130,9 @@ public class BinaryTree {
 		
 		BinaryTree bt=new BinaryTree();
 		bt.createBinaryTree();
-		//bt.inOrder(bt.root);
-		//bt.inOrder2();
-		//bt.postOrder(bt.root);
+		bt.inOrder(bt.root);
+		bt.inOrder2();
+		bt.postOrder(bt.root);
 		bt.levelOrder();
 		
 
