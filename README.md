@@ -13,16 +13,16 @@ In this repository, you will find my works in src folder:
 
 * ### [Data Structure](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure)
 
- * [Array Summation](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Array%20Summation)
- * [Binary Search](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Binary%20Search)
- * [Binary Tree](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Binary%20Tree)
- * [Circular Linked List](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Circular%20Linked%20List)
- * [Double Linked List](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Double%20Linked%20List)
- * [Linked List](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Linked%20List)
- * [Queue](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Queue)
- * [Quick Sort](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Quick%20Sort)
- * [Sorting Algorithm](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Sorting%20Algorithm)
- * [Stack](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Stack)
+  * [Array Summation](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Array%20Summation)
+  * [Binary Search](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Binary%20Search)
+  * [Binary Tree](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Binary%20Tree)
+  * [Circular Linked List](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Circular%20Linked%20List)
+  * [Double Linked List](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Double%20Linked%20List)
+  * [Linked List](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Linked%20List)
+  * [Queue](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Queue)
+  * [Quick Sort](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Quick%20Sort)
+  * [Sorting Algorithm](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Sorting%20Algorithm)
+  * [Stack](https://github.com/ugurcankok/Java/tree/master/src/Data%20Structure/Stack)
 
 * ### [OOP](https://github.com/ugurcankok/Java/tree/master/src/OOP/Card%20Game)
 
