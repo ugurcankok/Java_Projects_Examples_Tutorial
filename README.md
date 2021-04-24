@@ -1,6 +1,6 @@
 # Java Repository
 
-You can look at my work on machine learning in this repository.
+You can look at my work on Java in this repository.
 
 In this repository, you will find my works in src folder:
 
