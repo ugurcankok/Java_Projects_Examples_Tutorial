@@ -4,7 +4,7 @@ Java is a High Level, class-based, object-oriented programming language that is 
 
 ### What is Python Used For?
 
-* **Mobile App Development*
+* **Mobile App Development**
 * **Desktop GUI Applications**
 * **Web-Based Applications**
 * **Big Data Technologies**
