@@ -1,5 +1,15 @@
 # Java Repository
 
+Java is a High Level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA).
+
+### What is Python Used For?
+
+* **MOBILE APP DEVELOPMENT**
+* **DESKTOP GUI APPLICATIONS**
+* **WEB-BASED APPLICATIONS**
+* **BIG DATA TECHNOLOGIES**
+* **CLOUD-BASED APPLICATIONS
+
 You can look at my work on Java in this repository.
 
 In this repository, you will find my works in src folder:
