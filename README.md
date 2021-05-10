@@ -8,7 +8,7 @@ Java is a High Level, class-based, object-oriented programming language that is 
 * **DESKTOP GUI APPLICATIONS**
 * **WEB-BASED APPLICATIONS**
 * **BIG DATA TECHNOLOGIES**
-* **CLOUD-BASED APPLICATIONS
+* **CLOUD-BASED APPLICATIONS**
 
 You can look at my work on Java in this repository.
 
