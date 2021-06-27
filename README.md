@@ -12,7 +12,7 @@ Java is a High Level, class-based, object-oriented programming language that is 
 
 You can look at my work on Java in this repository.
 
-In this repository, you will find my works in src folder:
+In this repository, you will find my works in ***src*** folder:
 
 * ### [Algorithms - 1](https://github.com/ugurcankok/Java/tree/master/src/Algorithms%20-%201)
 
